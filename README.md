@@ -10,5 +10,6 @@
 ## 📂 Assignment
 
 > 🔗 [View Assignment 1: Node.js Car Market Data Processor](./assignment_1.md)
+> 🔗 [View Assignment 2: Node.js Newsletter Application](./assignment_2.md)
 
 ---
