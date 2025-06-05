@@ -13,6 +13,6 @@
 
 > 🔗 [View Assignment 2: Node.js Newsletter Application](./assignment_2.md)
 
-> > 🔗 [View Assignment 3: Your First Express.js API](./assignment_3.md)
+> 🔗 [View Assignment 3: Your First Express.js API](./assignment_3.md)
 
 ---
